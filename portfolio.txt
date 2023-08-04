@@ -1,0 +1,80 @@
+<html>
+    <head>
+        <title>Prasath profile</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="stylesheet" type="text/css" href="styles/style1.css">
+    </head>
+    <body>
+        <div class="hero">
+            <h2 class="name">Portfo<span>lio</span></h2>
+            <nav>
+            <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a href="#about_">ABOUT ME</a></li>
+                <li><a href="#skills_">SKILLS</a></li>
+                <li><a href="#contact_">CONTACT</a></li>
+            </ul>
+            <a href="#" class="button">Subscribe</a>
+        </nav>
+        <div class="content">
+                <h2>Hello my name is</h2>
+                <h1>PRASATH <span style="color:pink">A.R </span></h1>
+                <h4>I'm a Web Developer</h4>
+            
+                <div class="subscribe">
+                    <form>
+                        <input type="text" name="name" placeholder="Enter your name">
+                        <input type="submit" name="submit" value="Let's start">
+                    </form>
+                </div>
+        </div>
+        </div>
+<section class = "about_me" id="about_">
+    <div class="main">
+        <img src="C:\Users\Prasath\OneDrive\Desktop\Portfolio\styles\Prasath1.jpg">
+        <div class="about_content">
+            <h5>Its about me</h5>
+            <h3>Developer cum designer</h3>
+            <p>I'm a web developer with good experience in HTML & CSS</p>
+            <br>
+            <a href="#" class="button_talk">Lets Talk</a>
+            </div>
+            </div>
+</section>
+<div class="skills" id="skills_">
+    <div class="title">
+        <h2>Skills</h2>
+        <div class="box">
+            <div class="card">
+                <h1>Web Designing</h1>
+                <div class="para"> 
+                    <p style="text-align:center">Responsive Web Development using HTML,CSS
+                        <br>
+                        <br>
+                        <a class="btn" href="#">Read more</a>
+                    </p>
+                    <div class="final">
+                        <>
+
+                    </div>
+                </div>
+        </div>
+
+    </div>
+</div>
+<div class="footer" id="contact_">
+    <p class="author">Prasath</p>
+    <br>
+    <br>
+    <p class="reach">Reach me at</p>
+    <div class="Social-media">
+        <a href="#"><i class="fa-sharp fa-solid fa-envelope"></i></a>
+        <br>
+        <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+
+    </div>
+    <p class="copy">copyLeft</p>
+</div>
+    </body>
+
+</html>
